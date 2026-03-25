@@ -1,0 +1,54 @@
+{
+  "logo.alt": {
+    "message": "Cadence Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Community": {
+    "message": "Community",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Repositories": {
+    "message": "Repositories",
+    "description": "Navbar item with label Repositories"
+  },
+  "item.label.Cadence Service": {
+    "message": "Cadence Service",
+    "description": "Navbar item with label Cadence Service"
+  },
+  "item.label.Go Client": {
+    "message": "Go Client",
+    "description": "Navbar item with label Go Client"
+  },
+  "item.label.Java Client": {
+    "message": "Java Client",
+    "description": "Navbar item with label Java Client"
+  },
+  "item.label.Go Samples": {
+    "message": "Go Samples",
+    "description": "Navbar item with label Go Samples"
+  },
+  "item.label.Java Samples": {
+    "message": "Java Samples",
+    "description": "Navbar item with label Java Samples"
+  },
+  "item.label.Cadence Web": {
+    "message": "Cadence Web",
+    "description": "Navbar item with label Cadence Web"
+  },
+  "item.label.Cadence IDLs": {
+    "message": "Cadence IDLs",
+    "description": "Navbar item with label Cadence IDLs"
+  },
+  "item.label.Helm Charts": {
+    "message": "Helm Charts",
+    "description": "Navbar item with label Helm Charts"
+  }
+}

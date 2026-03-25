@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcadence=globalThis.webpackChunkcadence||[]).push([[2655],{61078:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/zh-Hans/blog/page/5","page":5,"postsPerPage":10,"totalPages":5,"totalCount":44,"previousPage":"/zh-Hans/blog/page/4","blogDescription":"The latest news and updates from the Cadence team","blogTitle":"Cadence Blog"}}')}}]);

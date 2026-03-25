@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.community.category.How to Contribute": {
+    "message": "How to Contribute",
+    "description": "The label for category How to Contribute in sidebar community"
+  },
+  "sidebar.community.link.Chat with us on Slack": {
+    "message": "Chat with us on Slack",
+    "description": "The label for link Chat with us on Slack in sidebar community, linking to https://communityinviter.com/apps/cloud-native/cncf"
+  },
+  "sidebar.community.link.Code of Conduct": {
+    "message": "Code of Conduct",
+    "description": "The label for link Code of Conduct in sidebar community, linking to https://github.com/uber/.github/blob/dcd96c52f2d1d839208315a2572cf37f48e52e96/CODE_OF_CONDUCT.md"
+  }
+}
