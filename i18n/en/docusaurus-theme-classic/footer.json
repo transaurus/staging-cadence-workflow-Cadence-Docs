@@ -1,0 +1,58 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label of footer link with label=Getting Started linking to docs/get-started/"
+  },
+  "link.item.label.Go Client": {
+    "message": "Go Client",
+    "description": "The label of footer link with label=Go Client linking to docs/go-client/"
+  },
+  "link.item.label.Java Client": {
+    "message": "Java Client",
+    "description": "The label of footer link with label=Java Client linking to docs/java-client/"
+  },
+  "link.item.label.Command Line Interface": {
+    "message": "Command Line Interface",
+    "description": "The label of footer link with label=Command Line Interface linking to docs/cli/"
+  },
+  "link.item.label.Operation Guide": {
+    "message": "Operation Guide",
+    "description": "The label of footer link with label=Operation Guide linking to docs/operation-guide/"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/questions/tagged/cadence-workflow+uber-cadence"
+  },
+  "link.item.label.Cadence Community on CNCF Slack": {
+    "message": "Cadence Community on CNCF Slack",
+    "description": "The label of footer link with label=Cadence Community on CNCF Slack linking to https://communityinviter.com/apps/cloud-native/cncf"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/company/cadenceworkflow/"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/cadence-workflow/cadence"
+  },
+  "copyright": {
+    "message": "Copyright © Cadence a Series of LF Projects, LLC. <br/>For website terms of use, trademark policy and other project policies please see <a href=\"https://lfprojects.org/policies/\" target=\"_blank\">lfprojects.org/policies/</a>.",
+    "description": "The footer copyright"
+  }
+}

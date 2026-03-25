@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Get Started": {
+    "message": "Get Started",
+    "description": "The label for category Get Started in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Use Cases": {
+    "message": "Use Cases",
+    "description": "The label for category Use Cases in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Concepts": {
+    "message": "Concepts",
+    "description": "The label for category Concepts in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Codelabs": {
+    "message": "Codelabs",
+    "description": "The label for category Codelabs in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Java Client": {
+    "message": "Java Client",
+    "description": "The label for category Java Client in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Go Client": {
+    "message": "Go Client",
+    "description": "The label for category Go Client in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Command Line Interface": {
+    "message": "Command Line Interface",
+    "description": "The label for category Command Line Interface in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Production Operation": {
+    "message": "Production Operation",
+    "description": "The label for category Production Operation in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Workflow Troubleshooting": {
+    "message": "Workflow Troubleshooting",
+    "description": "The label for category Workflow Troubleshooting in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.Releases": {
+    "message": "Releases",
+    "description": "The label for category Releases in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.category.About": {
+    "message": "About",
+    "description": "The label for category About in sidebar docsSidebar"
+  },
+  "sidebar.docsSidebar.doc.Cadence Service": {
+    "message": "Cadence Service",
+    "description": "The label for the doc item Cadence Service in sidebar docsSidebar, linking to the doc releases/cadence"
+  },
+  "sidebar.docsSidebar.doc.Cadence Go Client": {
+    "message": "Cadence Go Client",
+    "description": "The label for the doc item Cadence Go Client in sidebar docsSidebar, linking to the doc releases/cadence-go-client"
+  },
+  "sidebar.docsSidebar.doc.Cadence Java Client": {
+    "message": "Cadence Java Client",
+    "description": "The label for the doc item Cadence Java Client in sidebar docsSidebar, linking to the doc releases/cadence-java-client"
+  }
+}
